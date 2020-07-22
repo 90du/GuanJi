@@ -13,7 +13,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg96"
-   sodipodi:docname="guanji1.svg"
+   sodipodi:docname="guanji.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata100">
@@ -42,7 +42,7 @@
      showgrid="true"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="9.28"
-     inkscape:cx="19.43319"
+     inkscape:cx="15.544538"
      inkscape:cy="33.401023"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -365,24 +365,20 @@
          result="composite2" />
     </filter>
   </defs>
-  <g
-     id="g882"
-     transform="matrix(0.97342809,0,0,0.97342809,-0.15232809,0.82109986)">
-    <rect
-       width="60"
-       height="60"
-       rx="29.5"
-       id="rect74"
-       style="fill:url(#uos-downloadmanager64-b);fill-rule:evenodd;filter:url(#uos-downloadmanager64-a)"
-       x="3"
-       y="2" />
-    <rect
-       rx="7.5"
-       style="fill:#ff0000;fill-opacity:1;stroke-width:1.13714707;filter:url(#filter4701)"
-       y="24"
-       x="25"
-       height="25"
-       width="15"
-       id="rect121" />
-  </g>
+  <rect
+     y="2"
+     x="3"
+     style="fill:url(#uos-downloadmanager64-b);fill-rule:evenodd;filter:url(#uos-downloadmanager64-a)"
+     id="rect74"
+     rx="29.5"
+     height="60"
+     width="60" />
+  <rect
+     id="rect121"
+     width="15"
+     height="25"
+     x="25"
+     y="24"
+     style="fill:#ff0000;fill-opacity:1;stroke-width:1.13714707;filter:url(#filter4701)"
+     rx="7.5" />
 </svg>
