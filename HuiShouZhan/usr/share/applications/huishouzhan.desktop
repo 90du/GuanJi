@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=A simple trash software for Deepin.
+Comment[zh_CN]=为deepin制作的简单回收站快捷方式。
+Exec=gio open trash:///
+GenericName[en]=Trash
+Icon=/opt/huishouzhan/huishouzhan.svg
+Name=回收站
+Name[en]=Trash
+Terminal=false
+Type=Application
+Version=1.0
+X-Deepin-Vendor=user-custom

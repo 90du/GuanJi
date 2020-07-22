@@ -1,9 +1,9 @@
-Package: guanji
+Package: HuiShouZhan
 Version: 1.0
 Architecture: amd64
 Installed-Size: 496
 Depends:
 Section: utils
 Priority: standard
-Description: A simple shutdown software for Deepin.
+Description: A simple trash software for Deepin.
 Maintainer: 4364@163.com

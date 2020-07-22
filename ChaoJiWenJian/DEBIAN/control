@@ -1,0 +1,9 @@
+Package: ChaoJiWenJian
+Version: 1.0
+Architecture: amd64
+Installed-Size: 496
+Depends:
+Section: utils
+Priority: standard
+Description: A simple sudo dde-file-manage software for Deepin.
+Maintainer: 4364@163.com
