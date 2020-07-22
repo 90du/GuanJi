@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg96"
+   sodipodi:docname="guanji.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata100">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="978"
+     id="namedview98"
+     showgrid="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="9.28"
+     inkscape:cx="15.544538"
+     inkscape:cy="33.401023"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg96">
+    <inkscape:grid
+       type="xygrid"
+       id="grid119" />
+  </sodipodi:namedview>
+  <defs
+     id="defs72">
+    <filter
+       id="uos-downloadmanager64-a"
+       width="126.7%"
+       height="126.7%"
+       x="-13.3%"
+       y="-13.3%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset2" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="1.5"
+         id="feGaussianBlur4" />
+      <feComposite
+         in="shadowBlurOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowBlurOuter1"
+         id="feComposite6" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         result="shadowMatrixOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"
+         id="feColorMatrix8" />
+      <feMerge
+         id="feMerge14">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode10" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode12" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       id="uos-downloadmanager64-b"
+       x1="30"
+       x2="34"
+       y1="0"
+       y2="58"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3,2)">
+      <stop
+         offset="0%"
+         stop-color="#FFF"
+         id="stop17" />
+      <stop
+         offset="100%"
+         stop-color="#EDEDED"
+         id="stop19" />
+    </linearGradient>
+    <filter
+       id="uos-downloadmanager64-c"
+       width="172.7%"
+       height="214.3%"
+       x="-36.4%"
+       y="-57.1%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset22" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="1.5"
+         id="feGaussianBlur24" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         result="shadowMatrixOuter1"
+         values="0 0 0 0 0.421978973   0 0 0 0 0.652704643   0 0 0 0 0.875452899  0 0 0 0.5 0"
+         id="feColorMatrix26" />
+      <feMerge
+         id="feMerge32">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode28" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode30" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       id="uos-downloadmanager64-e"
+       x1="15.083623"
+       x2="6.7408471"
+       y1="5.4707406"
+       y2="11.162205"
+       gradientTransform="scale(1.2452957,0.80302209)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#7871EB"
+         id="stop35" />
+      <stop
+         offset="100%"
+         stop-color="#57E5FF"
+         id="stop37" />
+    </linearGradient>
+    <path
+       id="uos-downloadmanager64-d"
+       d="M8.68270151,12.8982249 L8.67606086,12.8915842 L8.57619425,12.7848026 L1.13364857,5.31935532 C-0.045623858,4.13640056 -0.045623858,2.22235461 1.13364857,1.03939985 C2.30817913,-0.138798242 4.21544253,-0.141771362 5.39364062,1.0327592 C5.39585762,1.03496929 5.39807117,1.03718285 5.40028127,1.03939985 L10.8121942,6.4678026 L16.2247187,1.03939985 C17.3992493,-0.138798242 19.3065127,-0.141771362 20.4847108,1.0327592 C20.4869278,1.03496929 20.4891413,1.03718285 20.4913514,1.03939985 C21.6706239,2.22235461 21.6706239,4.13640056 20.4913514,5.31935532 L13.045685,12.7900226 C13.01437,12.8244336 12.9821214,12.8582983 12.9489391,12.8915842 C12.3381832,13.5042472 11.5292964,13.7991294 10.7278191,13.7759104 C9.98174833,13.7544774 9.2482366,13.4619996 8.68270151,12.8982249 Z" />
+    <radialGradient
+       id="uos-downloadmanager64-f"
+       cx="9.7031338"
+       cy="6.9482162"
+       r="10.212004"
+       fx="9.7031338"
+       fy="6.9482162"
+       gradientTransform="scale(1.1210516,0.89201958)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#7871EB"
+         id="stop41" />
+      <stop
+         offset="68.65%"
+         stop-color="#65B3F9"
+         stop-opacity=".389"
+         id="stop43" />
+      <stop
+         offset="100%"
+         stop-color="#5CD1FF"
+         id="stop45" />
+    </radialGradient>
+    <filter
+       id="uos-downloadmanager64-h"
+       width="158.3%"
+       height="191.3%"
+       x="-29.2%"
+       y="-45.7%"
+       filterUnits="objectBoundingBox">
+      <feOffset
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset48" />
+      <feGaussianBlur
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         stdDeviation="1.5"
+         id="feGaussianBlur50" />
+      <feColorMatrix
+         in="shadowBlurOuter1"
+         result="shadowMatrixOuter1"
+         values="0 0 0 0 0.419449026   0 0 0 0 0.779397285   0 0 0 0 0.884114583  0 0 0 0.5 0"
+         id="feColorMatrix52" />
+      <feMerge
+         id="feMerge58">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode54" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode56" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       id="uos-downloadmanager64-j"
+       x1="25.849652"
+       x2="14.375825"
+       y1="9.0532906"
+       y2="20.132105"
+       gradientTransform="scale(1.252102,0.79865697)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#2B86FF"
+         id="stop61" />
+      <stop
+         offset="100%"
+         stop-color="#26F9B9"
+         id="stop63" />
+    </linearGradient>
+    <path
+       id="uos-downloadmanager64-i"
+       d="M14.5309382,21.3712925 C14.5306198,21.3709742 14.5303015,21.3706559 14.5299832,21.3703375 L1.6572322,8.4940384 C-0.256997988,6.57928059 -0.256997988,3.47540439 1.6572322,1.56064658 C3.57078047,-0.353429127 6.67368278,-0.353856698 8.58775848,1.55969157 C8.58807686,1.56000986 8.5883952,1.5603282 8.58871349,1.56064658 L17.9995596,10.97381 L27.4112865,1.56064658 C29.3248348,-0.353429127 32.4277371,-0.353856698 34.3418128,1.55969157 C34.3421312,1.56000986 34.3424495,1.5603282 34.3427678,1.56064658 C36.256998,3.47540439 36.256998,6.57928059 34.3427678,8.4940384 L21.4700168,21.3703375 C20.5422359,22.2983742 19.3348638,22.7765542 18.1189593,22.8048402 L17.882391,22.8048717 C16.6664786,22.7769208 15.4589749,22.2990735 14.5309382,21.3712925 Z" />
+    <linearGradient
+       id="uos-downloadmanager64-k"
+       x1="4.2361073"
+       x2="19.675863"
+       y1="10.601048"
+       y2="7.3959653"
+       gradientTransform="scale(1.0877528,0.91932654)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#26F5BB"
+         id="stop67" />
+      <stop
+         offset="100%"
+         stop-color="#2B86FE"
+         id="stop69" />
+    </linearGradient>
+    <mask
+       id="uos-downloadmanager64-l"
+       fill="#fff">
+      <use
+         xlink:href="#uos-downloadmanager64-i"
+         id="use85"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+    <filter
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Cut out, add inner shadow and colorize some parts of an image"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4701">
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.21 0.72 0.07 0 0 "
+         result="result1"
+         id="feColorMatrix4673" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "
+         result="result9"
+         id="feColorMatrix4675" />
+      <feComposite
+         in2="result9"
+         in="SourceGraphic"
+         operator="in"
+         result="result4"
+         id="feComposite4677" />
+      <feFlood
+         result="result2"
+         flood-color="rgb(0,0,0)"
+         id="feFlood4679" />
+      <feComposite
+         in2="result9"
+         operator="in"
+         result="result10"
+         id="feComposite4681" />
+      <feComposite
+         in2="result4"
+         operator="atop"
+         id="feComposite4683" />
+      <feGaussianBlur
+         stdDeviation="3"
+         result="result8"
+         id="feGaussianBlur4685" />
+      <feOffset
+         dx="3"
+         dy="3"
+         result="result3"
+         in="result8"
+         id="feOffset4687" />
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(219,173,62)"
+         result="result5"
+         id="feFlood4689" />
+      <feMerge
+         result="result6"
+         id="feMerge4697">
+        <feMergeNode
+           in="result5"
+           id="feMergeNode4691" />
+        <feMergeNode
+           in="result3"
+           id="feMergeNode4693" />
+        <feMergeNode
+           in="result4"
+           id="feMergeNode4695" />
+      </feMerge>
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         id="feComposite4699" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5241" />
+      <feFlood
+         id="feFlood5243"
+         flood-opacity="1"
+         flood-color="rgb(201,199,199)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite5245"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5247"
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur" />
+      <feOffset
+         id="feOffset5249"
+         dx="1"
+         dy="1"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite5251"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <rect
+     y="2"
+     x="3"
+     style="fill:url(#uos-downloadmanager64-b);fill-rule:evenodd;filter:url(#uos-downloadmanager64-a)"
+     id="rect74"
+     rx="29.5"
+     height="60"
+     width="60" />
+  <rect
+     id="rect121"
+     width="15"
+     height="25"
+     x="25"
+     y="24"
+     style="fill:#ff0000;fill-opacity:1;stroke-width:1.13714707;filter:url(#filter4701)"
+     rx="7.5" />
+</svg>

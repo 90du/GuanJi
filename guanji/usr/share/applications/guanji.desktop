@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=关机
+Name[en]=ShutDown
+Comment=A simple shutdown software for Deepin.
+Icon=/opt/guanji/guanji.svg
+Exec=/usr/bin/dde-shutdown
+Terminal=false
+Comment[zh_CN]=为deepin制作的简单关机程序。
+GenericName[en]=ShutDown
